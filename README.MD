@@ -18,6 +18,6 @@
 
 ---
 
-## [Link do aplicativo](https://placar-truco.herokuapp.com/):
+## [Link do aplicativo](https://junioralvesbr.github.io/todolist-react):
 ```
-  https://placar-truco.herokuapp.com/
+  https://junioralvesbr.github.io/todolist-react
